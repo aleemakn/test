@@ -1,2 +1,2 @@
 # test
-test the GitHub
+test the GitHub for learning
